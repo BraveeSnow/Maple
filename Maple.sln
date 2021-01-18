@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maple", "Maple\Maple.csproj", "{0EE104A9-052B-46FA-8403-91954079192F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maple.NHentai", "Maple.NHentai\Maple.NHentai.csproj", "{92E6FCDF-C711-4A4E-9C60-1391932BBFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE104A9-052B-46FA-8403-91954079192F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE104A9-052B-46FA-8403-91954079192F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE104A9-052B-46FA-8403-91954079192F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE104A9-052B-46FA-8403-91954079192F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E6FCDF-C711-4A4E-9C60-1391932BBFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E6FCDF-C711-4A4E-9C60-1391932BBFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E6FCDF-C711-4A4E-9C60-1391932BBFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E6FCDF-C711-4A4E-9C60-1391932BBFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
